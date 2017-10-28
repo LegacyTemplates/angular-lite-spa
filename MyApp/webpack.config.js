@@ -113,6 +113,7 @@ module.exports = (env) => {
                     'NODE_ENV': JSON.stringify(isProd ? 'production' : isTest ? 'testing' : 'development')
                 }
             }),
+            new webpack.WatchIgnorePlugin([root("wwwroot")]),
             ...when(!isTest, [
                 // Workaround needed for angular 2 angular/angular#11580
                 new webpack.ContextReplacementPlugin(
