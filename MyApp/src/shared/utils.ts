@@ -1,5 +1,5 @@
 ﻿import { Directive, AfterViewInit } from '@angular/core';
-import { JsonServiceClient } from 'servicestack-client';
+import { JsonServiceClient } from '@servicestack/client';
 
 declare var global; //populated from package.json/karma/globals
 
