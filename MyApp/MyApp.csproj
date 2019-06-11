@@ -9,6 +9,12 @@
   <ItemGroup>
     <Folder Include="wwwroot\" />
   </ItemGroup>
+    
+  <ItemGroup> 
+    <Content Include="src\assets\svg\**"> 
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory> 
+    </Content> 
+  </ItemGroup>
   
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
