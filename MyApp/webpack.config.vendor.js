@@ -56,7 +56,7 @@ module.exports = (env) => {
             })
         ].concat(isDev ? [] : [
             new webpack.optimize.UglifyJsPlugin({ sourceMap: true }),
-            new Clean([root('bin/Release/netcoreapp2.1/publish/wwwroot/dist')]),
+            new Clean([root('bin/Release/netcoreapp3.1/publish/wwwroot/dist')]),
         ])
     }];
 
