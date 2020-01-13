@@ -4,7 +4,7 @@
 
 [![](https://raw.githubusercontent.com/ServiceStack/Assets/master/csharp-templates/angular-lite-spa.png)](http://angular-lite-spa.web-templates.io/)
 
-> Browse [source code](https://github.com/NetCoreTemplates/angular-lite-spa), view Live Demo [angular-lite-spa.web-templates.io](http://angular-lite-spa.web-templates.io) and install with [dotnet-new](http://docs.servicestack.net/dotnet-new):
+> Browse [source code](https://github.com/NetCoreTemplates/angular-lite-spa), view Live Demo [angular-lite-spa.web-templates.io](http://angular-lite-spa.web-templates.io) and install with [dotnet-new](https://docs.servicestack.net/dotnet-new):
 
     $ dotnet tool install -g x
 
