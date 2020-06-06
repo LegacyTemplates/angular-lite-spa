@@ -146,9 +146,9 @@
       "dev": true
     },
     "@servicestack/cli": {
-      "version": "1.0.6",
-      "resolved": "https://registry.npmjs.org/@servicestack/cli/-/cli-1.0.6.tgz",
-      "integrity": "sha512-+XF4pZveGJnq6gUr0llSFGAKiX6gmARL6c7m0lVRbvktJTVHMZTjEBUiuXj7VKCts3K7VivyA3aTRTX7jLWUyg==",
+      "version": "1.0.10",
+      "resolved": "https://registry.npmjs.org/@servicestack/cli/-/cli-1.0.10.tgz",
+      "integrity": "sha512-8UcfBF46iZT2QtNB39Y8IID4MbTLlBam3tOoXvTfnH3T6458UW4uRizk2/0WTrOaUI3H3pQnur+gCqbb1hYmuw==",
       "dev": true,
       "requires": {
         "ascii-table": "0.0.9",
@@ -157,12 +157,12 @@
       }
     },
     "@servicestack/client": {
-      "version": "1.0.15",
-      "resolved": "https://registry.npmjs.org/@servicestack/client/-/client-1.0.15.tgz",
-      "integrity": "sha512-vCqtIlOkh8O8nRTqqZsre3bDS+3nHNUrtbIf2tJojTGdl4p+Gx2FN05oMrTI9UK5BPCKVolt0eNJFau2m9qzHg==",
+      "version": "1.0.32",
+      "resolved": "https://registry.npmjs.org/@servicestack/client/-/client-1.0.32.tgz",
+      "integrity": "sha512-7vzoxvHQgvtMgPYnppc+jeVM3caEJ9x+uUIqhjNGlU4gLJhlSd+6IzTUcssi4WPOBGW+0wxaMvI0nYbVO22NNQ==",
       "requires": {
-        "es6-shim": "^0.35.3",
-        "eventsource": "^0.2.2",
+        "es6-shim": "^0.35.4",
+        "eventsource": "^1.0.7",
         "fetch-everywhere": "^1.0.5"
       }
     },
@@ -2992,9 +2992,9 @@
       }
     },
     "es6-shim": {
-      "version": "0.35.4",
-      "resolved": "https://registry.npmjs.org/es6-shim/-/es6-shim-0.35.4.tgz",
-      "integrity": "sha512-oJidbXjN/VWXZJs41E9JEqWzcFbjt43JupimIoVX82Thzt5qy1CiYezdhRmWkj3KOuwJ106IG/ZZrcFC6fgIUQ=="
+      "version": "0.35.5",
+      "resolved": "https://registry.npmjs.org/es6-shim/-/es6-shim-0.35.5.tgz",
+      "integrity": "sha512-E9kK/bjtCQRpN1K28Xh4BlmP8egvZBGJJ+9GtnzOwt7mdqtrjHFuVGr7QJfdjBIKqrlU5duPf3pCBoDrkjVYFg=="
     },
     "es6-symbol": {
       "version": "3.1.1",
@@ -3149,9 +3149,9 @@
       "dev": true
     },
     "eventsource": {
-      "version": "0.2.3",
-      "resolved": "https://registry.npmjs.org/eventsource/-/eventsource-0.2.3.tgz",
-      "integrity": "sha1-MLjyG0DYaWjq7r0ZmpUHLuVLDfM=",
+      "version": "1.0.7",
+      "resolved": "https://registry.npmjs.org/eventsource/-/eventsource-1.0.7.tgz",
+      "integrity": "sha512-4Ln17+vVT0k8aWq+t/bF5arcS3EpT9gYtW66EPacdj/mAFevznsnyoHLPy2BA8gbIQeIHoPsvwmfBftfcG//BQ==",
       "requires": {
         "original": "^1.0.0"
       }
@@ -13645,9 +13645,9 @@
       }
     },
     "websocket-extensions": {
-      "version": "0.1.3",
-      "resolved": "https://registry.npmjs.org/websocket-extensions/-/websocket-extensions-0.1.3.tgz",
-      "integrity": "sha512-nqHUnMXmBzT0w570r2JpJxfiSD1IzoI+HGVdd3aZ0yNi3ngvQ4jv1dtHt5VGxfI2yj5yqImPhOK4vmIh2xMbGg==",
+      "version": "0.1.4",
+      "resolved": "https://registry.npmjs.org/websocket-extensions/-/websocket-extensions-0.1.4.tgz",
+      "integrity": "sha512-OqedPIGOfsDlo31UNwYbCFMSaO9m9G/0faIHj5/dZFDMFqPTcx6UwqyOy3COEaEOg/9VsGIpdqn62W5KhoKSpg==",
       "dev": true
     },
     "whatwg-fetch": {
