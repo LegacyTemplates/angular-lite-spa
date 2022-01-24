@@ -19,7 +19,7 @@
   </ItemGroup>
   
   <ItemGroup>
-    <PackageReference Include="ServiceStack" Version="5.*" />
+    <PackageReference Include="ServiceStack" Version="6.*" />
   </ItemGroup>
   
   <ItemGroup>
