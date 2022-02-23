@@ -93,6 +93,6 @@
     "ts-loader": "^3.5.0",
     "typescript": "^2.8.3",
     "webpack": "^3.11.0",
-    "webpack-dev-server": "^2.11.3"
+    "webpack-dev-server": "^3.1.11"
   }
 }
